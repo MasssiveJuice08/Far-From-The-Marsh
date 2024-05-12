@@ -1,4 +1,4 @@
-# Far-From-The-Marsh
+# _Far From The Marsh_
 
 A mod for week one of the 2024 Morrowind May Modathon theme, 'Mysticism and Prophecy'
 
