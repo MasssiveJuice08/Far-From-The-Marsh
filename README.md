@@ -20,6 +20,12 @@ A Mages Guild member studying hidden patterns of Mysticism and prophecy has gone
 - [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
 - Bloodmoon and Tribunal
 
+---
+
+### You can follow the mod's developnent on my website, ['Morrowind Modding with MassuveJuice](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/far-from-the-marsh/far-from-the-marsh-home/)
+
+[![Far From the Marsh](https://i.imgur.com/LmCg5HX.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/far-from-the-marsh/far-from-the-marsh-home/)
+
 ## Credits
 
 - **ChatGPT** - The plot and writing was created with the assistance of ChatGPT, from extensive creative prompts and feedback given by myself. All lore research was done by myself, and the cave was created by me.
